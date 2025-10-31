@@ -1,1 +1,1 @@
-# Nimble-Game-algo
+# Nimble-Game-algo In Nimble, coins on squares behave like piles in a Nim game where the pile size is the square index if the number of coins on that square is odd. Compute the XOR of the indices of squares with an odd number of coins; if it’s non-zero, the first player can force a win; otherwise, the second player wins.
